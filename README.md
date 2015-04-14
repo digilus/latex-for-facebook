@@ -4,7 +4,7 @@ Equations, formulas in Facebook. Very easy to use.
 ### Announcement
 **tl;dr**: Looking for new maintainer. Contact me `gmunkhbaatarmn@gmail.com`
 
-In beginning I made this for my friend. But surprisingly many people uses this.
+In beginning I made this for my friend. But surprisingly many people use this.
 Now I don't have enough time for this extension. If you want to maintain this
 extension I like to give you this extension's full access.
 
@@ -26,7 +26,7 @@ Examples:
 
 ### NOTE:
 - Works: `$ ax^2+bx+c=0 $`
-- Don't works: `$ax^2+bx+c=0$` <-- (See space surrounding `$` sign)
+- Doesn't work: `$ax^2+bx+c=0$` <-- (See space surrounding `$` sign)
 
 ### CHANGES
 - v 0.0.3 - Dollar sign requires space before and after. It's solving dollar sign's regular usage.
