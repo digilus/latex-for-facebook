@@ -1,0 +1,9 @@
+{
+  "name": "latex-for-facebook",
+  "title": "LaTeX for Facebook",
+  "id": "jid1-qBP56c3zNpczgg",
+  "description": "Injects MathJax to enable TeX input on facebook ($ inline math $; $$ display math $$)",
+  "author": "",
+  "license": "Apache Public License 2.0",
+  "version": "0.1"
+}
